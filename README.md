@@ -1,4 +1,4 @@
-# 알고리즘 스터디
+# Problem Solving Study
 
 ## 목표
 
