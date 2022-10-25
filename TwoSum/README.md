@@ -6,4 +6,4 @@ https://leetcode.com/problems/two-sum/
 정답이 없는 경우는 고려하지 않는다.
 
 Sumin
-![](../../../Desktop/스크린샷 2022-10-25 오후 9.22.30.png)
+<img width="613" alt="스크린샷 2022-10-25 오후 9 22 30" src="https://user-images.githubusercontent.com/23489208/197771967-de37ab1b-6115-4fc1-b2fe-24d048aa6640.png">
